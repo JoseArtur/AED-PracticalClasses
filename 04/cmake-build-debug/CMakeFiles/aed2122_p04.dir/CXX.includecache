@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/josea/Feup/AED/TP04/Tests/funSortProblem.cpp
+funSortProblem.h
+C:/Users/josea/Feup/AED/TP04/Tests/funSortProblem.h
+algorithm
+-
+
+C:/Users/josea/Feup/AED/TP04/Tests/funSortProblem.h
+iostream
+-
+vector
+-
+product.h
+C:/Users/josea/Feup/AED/TP04/Tests/product.h
+piece.h
+C:/Users/josea/Feup/AED/TP04/Tests/piece.h
+
+C:/Users/josea/Feup/AED/TP04/Tests/piece.h
+string
+-
+
+C:/Users/josea/Feup/AED/TP04/Tests/product.h
+string
+-
+
